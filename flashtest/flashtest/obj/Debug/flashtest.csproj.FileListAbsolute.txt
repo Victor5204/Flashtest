@@ -1,0 +1,15 @@
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.csproj.AssemblyReference.cache
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.csproj.SuggestedBindingRedirects.cache
+E:\лабы\flashtest\flashtest\obj\Debug\MainWindow.baml
+E:\лабы\flashtest\flashtest\obj\Debug\MainWindow.g.cs
+E:\лабы\flashtest\flashtest\obj\Debug\App.g.cs
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest_MarkupCompile.cache
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.g.resources
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.Properties.Resources.resources
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.csproj.GenerateResource.cache
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.csproj.CoreCompileInputs.cache
+E:\лабы\flashtest\flashtest\bin\Debug\flashtest.exe.config
+E:\лабы\flashtest\flashtest\bin\Debug\flashtest.exe
+E:\лабы\flashtest\flashtest\bin\Debug\flashtest.pdb
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.exe
+E:\лабы\flashtest\flashtest\obj\Debug\flashtest.pdb
